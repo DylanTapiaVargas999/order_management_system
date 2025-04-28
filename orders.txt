@@ -1,0 +1,2 @@
+Customer: Dylan, Email: dylan@gmail.com, Items: ['Book'], Total: $29.9
+Customer: John Doe, Email: john@example.com, Items: ['Laptop', 'Mouse'], Total: $1500.0
